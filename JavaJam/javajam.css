@@ -201,7 +201,9 @@
  textarea {
    margin-bottom: .5em;
  }
-
+audio { display: block;
+        margin-top:1em;
+}
  tr:nth-of-type(odd) {
    background-color: #D2B48C;
  }
